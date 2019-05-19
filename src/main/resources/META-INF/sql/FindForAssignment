@@ -1,0 +1,5 @@
+SELECT
+  TOP 1
+  u
+  FROM [user] u
+  LEFT OUTER JOIN [user_group]

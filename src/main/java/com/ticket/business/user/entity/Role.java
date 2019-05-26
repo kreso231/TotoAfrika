@@ -11,7 +11,12 @@ public enum Role {
     ASSIGN_AGENT_TICKET,
     RESOLVE_TICKET,
     DELETE_TICKET;
-
+    
+    public enum Admin {
+        DELETE_USER,
+        UPDATE_USER,
+        READ_USER
+    }
 
     public static class Name {
         public final static String OWN_TICKET = "OWN_TICKET";

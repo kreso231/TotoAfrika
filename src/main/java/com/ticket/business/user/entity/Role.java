@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 
 public enum Role {
 
+    DELETE_USER,
     OWN_TICKET,
     CREATE_OWN_TICKET,
     CREATE_FOREIGN_TICKET,

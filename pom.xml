@@ -8,7 +8,7 @@
     <artifactId>Ticket</artifactId>
     <version>1.1-SNAPSHOT</version>
 
-    <packaging>war</packaging>
+    <packaging>ear</packaging>
 
     <dependencies>
         <dependency>

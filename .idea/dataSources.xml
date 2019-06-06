@@ -7,5 +7,5 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/ticket_db</jdbc-url>
     </data-source>
-  </component>
+  </component>proba
 </project>

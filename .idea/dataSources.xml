@@ -6,6 +6,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/ticket_db</jdbc-url>
-    </data-source>
+    </data-source>awdawad
   </component>proba
 </project>
